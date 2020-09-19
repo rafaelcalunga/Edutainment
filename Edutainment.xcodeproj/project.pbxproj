@@ -47,6 +47,7 @@
 		6DBD6B5525158B0C004DC368 /* EdutainmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EdutainmentUITests.swift; sourceTree = "<group>"; };
 		6DBD6B5725158B0C004DC368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6DBD6B662515A818004DC368 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		6DBD6B722515B1DA004DC368 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				6DBD6B4925158B0C004DC368 /* EdutainmentTests */,
 				6DBD6B5425158B0C004DC368 /* EdutainmentUITests */,
 				6DBD6B3625158B0A004DC368 /* Products */,
+				6DBD6B722515B1DA004DC368 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};

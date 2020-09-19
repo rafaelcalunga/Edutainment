@@ -88,9 +88,6 @@ struct ContentView: View {
     }
     
     func playGame() {
-        
-        print("Olá")
-        
         var question: Question
         var x: Int
         var y: Int
